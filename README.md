@@ -32,10 +32,10 @@ Die Software hat viele Funktionen:
 
 ## Die folgende Hardware/Software wird für dieses Projekt benötigt:
 * Hardware
-    * NodeMCU oder vergleichbares Board mit einem dem ESP8266 oder ESP8285 Chip
-    * WS2812B RGB-LED-Streifen oder SK6812 RGBW-Streifen
-    * Stromversorgung 5V 2A
-    * Optional: LDR, 10 KOhm-Widerstand
+    * NodeMCU oder vergleichbares Board mit einem dem ESP8266 oder ESP8285 Chip. Meine Wahl: WeMOs D1 mini V3.0 (A mini wifi board with 4MB flash based on ESP-8266EX)
+    * WS2812B RGB-LED-Streifen oder SK6812 RGBW-Streifen. Meine Wahl: WS2812B RGB-LED-Streifen
+    * Stromversorgung 5V 2A. Meine Wahl: alter USB Netzteil mit 2A
+    * Optional: LDR, 10 KOhm-Widerstand. Habe ich nicht verwendet
 
 * Software
     * PlatformIO [Core](https://docs.platformio.org/en/latest/core/installation.html) oder [IDE](https://platformio.org/install/ide?install=vscode)
